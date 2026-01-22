@@ -1,7 +1,9 @@
 # # Prueba convocatorias UAPA
 
 ## - Prueba Front-End: 
-Para correr el front en
+Para correr el front basta con dar doble clik en el archivo MockupsCode.HTML que se encuentra en la carpeta frontend (recordar que el styles.css debe estar descargado en la misma carpeta)
+
+Acontinuación los resultados:
 <div align="center">
   <img src="./resultados/desktop.gif" alt="eer" width="100%"/>
   <p><em>vista en desktop </em></p>
@@ -13,7 +15,7 @@ Para correr el front en
 </div>
 
 ## - Prueba SQL: 
-Para probar el sql seguir los siguientes pasos:
+Para probar el sql seguir los siguientes pasos con los archivos que se encuentran en la carpeta "SQL":
 
 1. Correr el script de creacion de la base de datos llamado "CREATION.sql"
 
