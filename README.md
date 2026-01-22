@@ -1,7 +1,7 @@
 # # Prueba convocatorias UAPA
 
 ## - Prueba Front-End: 
-Para correr el front basta con dar doble clik en el archivo MockupsCode.HTML que se encuentra en la carpeta frontend (recordar que el styles.css debe estar descargado en la misma carpeta)
+Para correr el front basta con dar doble clik en el archivo MockupsCode.HTML (o abrirlo con el navegador) que se encuentra en la carpeta frontend (recordar que el styles.css debe estar descargado en la misma carpeta)
 
 Acontinuación los resultados:
 <div align="center">
